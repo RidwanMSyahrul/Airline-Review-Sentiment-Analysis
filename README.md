@@ -6,11 +6,11 @@ A business quality is dependant on their customer feedbacks. Customer feedbacks 
 ## Objective
 The objective of this project is to create an accurate sentiment analysis for airline review and classify them to three different class, which are Promoter, Passive, and Detractor review by using Natural Language Preprocessing (NLP).
 
-Deployment: [Click Here!]([https://huggingface.co/spaces/RidwanMS/Airline_Review_Sentiment_Analysis])
+Deployment: [Click Here!](https://huggingface.co/spaces/RidwanMS/Airline_Review_Sentiment_Analysis)
 
 ## File info
 ### Main Folder:
-- Dataset Airline Passenger Reviews.zip: This is the dataset used in this project, consist of 64,017 customers review. This dataset was acquired from [Kaggle]([https://www.kaggle.com/datasets/malharkhatu/airline-passenger-reviews/data])
+- Dataset Airline Passenger Reviews.zip: This is the dataset used in this project, consist of 64,017 customers review. This dataset was acquired from [Kaggle](https://www.kaggle.com/datasets/malharkhatu/airline-passenger-reviews/data)
 - P2G7_Ridwan-Syahrul.ipynb: This script consist of processing the dataset, which are data loading, exploratory data analysis, data preprocessing, data modeling, model saving.
 - P2G7_Ridwan-Syahrul_inference.ipynb: This script consist of code for testing the model saved using inference data.
 - model_imp_SimpleRNN.zip: This file is the model used in the P2G7_Ridwan-Syahrul.ipynb script for the sentiment analysis machine learning.
