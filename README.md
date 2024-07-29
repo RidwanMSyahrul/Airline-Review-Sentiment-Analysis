@@ -1,6 +1,6 @@
 # Airline Review Sentiment Analysis
 
-# Introduction
+## Introduction
 A business quality is dependant on their customer feedbacks. Customer feedbacks are really important for company to see what they can improve on and change for the better. For example, an airline company. Customers has so many airline to choose from and the way they choose one that fit their needs (beside their destination) is to see the airline's review. Customer can see from other customer's past experience with the respective airline if they are worth to travel with. So, with that scenario in mind, the airline company can take adventage of the review they got to improve their airline quality. However, since there are countless of review, it won't be easy to read them one by one and check if it's a good review or a bad one. This sentiment analysis was made to help the airline to classify which review are Promoter (Good) review, Passive (Neutral) review, or Detractor (Bad) review, so that it will be easier to see what went wrong with the airline by only reading the Detractor review. This will help the company tremendously to improve their airline's quality and customer satisfaction.
 
 ## Objective
