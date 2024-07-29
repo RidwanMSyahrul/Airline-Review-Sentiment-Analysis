@@ -15,6 +15,7 @@ Deployment: [Click Here!](https://huggingface.co/spaces/RidwanMS/Airline_Review_
 - P2G7_Ridwan-Syahrul_inference.ipynb: This script consist of code for testing the model saved using inference data.
 - model_imp_SimpleRNN.zip: This file is the model used in the P2G7_Ridwan-Syahrul.ipynb script for the sentiment analysis machine learning.
 - preprocess.pkl: This script is used for text preprocessing the dataset in P2G7_Ridwan-Syahrul_inference.ipynb script.
+- url.txt: This text consist of link for deployment.
   
 ### Deployment Folder:
 - app.py: This script will launch the application by calling other script, which is prediction.py.
